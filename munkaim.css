@@ -1,0 +1,20 @@
+main{
+    display: grid;
+    grid-template-areas: "he he he he he he"
+                         "na na na na na na"
+                         "ar ar ar ar ar ar"
+                         "as as as as as as"
+                         "f f f f f f";
+}
+
+article iframe{
+    width: 560px; 
+    height: 315px;
+}
+article a{
+    text-decoration: none;
+    color: darkorange;
+}
+article a:hover{
+    color:darkslategrey
+}

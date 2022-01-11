@@ -1,0 +1,36 @@
+main{
+    display: grid;
+    grid-template-areas: "he he he he he he"
+                         "na na na na na na"
+                         "ar ar ar ar ar ar"
+                         "as as as as as as"
+                         "f f f f f f";
+}
+article p{
+    text-align: center;
+}
+table{
+    border: 1px solid gray;
+    border-collapse:collapse; 
+    margin:auto;
+    width: 90%;
+    padding: 5px;
+}
+td {
+	border: 1px solid gray;
+    text-align: center;
+}
+th{
+    border: 1px solid gray;
+    color: darkorange;
+}
+article{
+    padding: 5px;
+}
+.bemutatas iframe{
+    width: 560px; 
+    height: 315px;
+}
+.bemutatas{
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+main{
+    display: grid;
+    grid-template-areas: "he he he he he he"
+                         "na na na na na na"
+                         "as as ar ar ar ar"
+                         "f f f f f f";
+}
+article{
+    text-align: center;
+}
